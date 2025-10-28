@@ -72,8 +72,8 @@ def publicar_meme(pagina_id, access_token, meme):
         "💥 Literalmente yo"
         "😎 Esto merece un Oscar"
         "😂 Si te ríes, pierdes"
-        "👀 ¿Te pasó igual?
-        "⚡ Lo mejor que verás hoy
+        "👀 ¿Te pasó igual? "
+        "⚡ Lo mejor que verás hoy"
         "🧃 Pura vitamina M (de meme)"
         "💫 El algoritmo hizo lo suyo"
         "😂 Ni el Excel lo entiende"
